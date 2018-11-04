@@ -37,10 +37,9 @@ You can choose other model like Double DQN, Dueling DQN, and so on.
 
 Below is my agent's reward curve during training.
 
-[이미지 첨부]
+![reward] https://github.com/helloworld2394/Udacity-Navigation/blob/master/save/reward.png
 
-- My agent got approx.  reward almost by the end.
-- This environment was solved in 2500 steps
+- My agent got approx. 0~20 reward almost by the end.
 
 ## 4. Furthur Work
 
