@@ -37,7 +37,7 @@ You can choose other model like Double DQN, Dueling DQN, and so on.
 
 Below is my agent's reward curve during training.
 
-![reward] https://github.com/helloworld2394/Udacity-Navigation/blob/master/save/reward.png
+![reward](https://github.com/helloworld2394/Udacity-Navigation/blob/master/save/reward.png)
 
 - My agent got approx. 0~20 reward almost by the end.
 
