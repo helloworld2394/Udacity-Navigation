@@ -37,11 +37,11 @@ Below is my DQN agent's hyperparameter settings.
 
 | Hyperparameter | Description | Value |
 | :------------: | :---------: | :---: |
-|  `LEARNING_RATE`  | Adam optimizer's LR  | 5e-5|
+|  `LEARNING_RATE`  | Adam optimizer's LR  | 7e-5|
 | `DISCOUNT_FACTOR` | reward discount factor | 0.99|
 |`REPLAY_MEMORY_SIZE`|replay memory capacity|15000|
 |`BATCH_SIZE`|batch size|64|
-|`EPSILON_DECAY`|epsilon decay ratio per episode|0.995|
+|`EPSILON_DECAY`|epsilon decay ratio per episode|0.9965|
 |`OBSERVATION_STEP`|not training step|70|
 
 ## 3. Results
